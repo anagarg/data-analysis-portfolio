@@ -46,14 +46,8 @@ Key analysis included:
 ## Recommendation
 Based on the visualizations, I would recommend the Northwest as the location for the next Intel data center. The Northwest combines relatively high net energy production with the highest percentage of renewable energy generation among the regions analyzed. This combination makes it a strong candidate for supporting Intel's energy needs while also aligning with sustainability goals. A potential concern is that the Northwest's demand closely matches or sometimes exceeds its net generation during certain periods. This should be considered in any further site-selection analysis.
 
-## Dashboard
-Main Dashboard
-
-Net Production
-
-Renewable Energy
-
-Supply and Demand
+## Interactive Dashboard
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/views/PortfolioProject-AnIntelDataCenter--AnanyaGarg/WriteAnswersHere?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Tools & Skills
 * Tableau
