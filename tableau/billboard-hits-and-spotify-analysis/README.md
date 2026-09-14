@@ -38,10 +38,10 @@ Key analysis included:
 Several genres showed a general increase in their presence in the Billboard Top 100 when comparing the 2000s with the 2010s:
 
   Genre	       2000s	   2010s
-- Alternative	 8.44%	   12.12%
-- Dance	       4.80%	   13.13%
-- Electro	     1.11%	   10.10%
-- Rap	         19.19%	   41.41%
+  Alternative	 8.44%	   12.12%
+  Dance	       4.80%	   13.13%
+  Electro	     1.11%	   10.10%
+  Rap	         19.19%	   41.41%
 
 Rap experienced the largest increase among these genres, more than doubling its presence in the Top 100.
 
