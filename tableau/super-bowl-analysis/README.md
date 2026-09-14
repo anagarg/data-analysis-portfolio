@@ -56,6 +56,7 @@ Games were classified according to the difference between the winning and losing
 - Close Game: 8–14 points
 - Easy Win: 15–21 points
 - Blowout: More than 21 points
+
 The analysis can then be used to compare average U.S. viewership across these different types of games, providing insight into whether more competitive games tend to attract larger audiences.
 
 ## Interactive Dashboard
