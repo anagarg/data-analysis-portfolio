@@ -65,15 +65,11 @@ Comparing sales growth alongside changes in restaurant units provides a way to d
 The analysis also compares the number of U.S. restaurant units across cuisine types. Burger, coffee/cafe, sandwich, chicken, Mexican, and pizza companies represent substantial portions of the restaurant footprint among the companies analyzed.
 
 ## Visualizations
-[Total Sales by Company](images/total-sales-by-company.png)
-
-[Average Sales by Restaurant](images/average-sales-by-restaurant.png)
-
-[Change in Units and Sales](images/change-in-units-and-sales.png)
-
-[Restaurants by Cuisine Type](images/restaurants-by-cuisine-type.png)
-
-[Breakdown of Companies by Units](images/breakdown-of-companies-by-units.png)
+- [Total Sales by Company](images/total-sales-by-company.png)
+- [Average Sales by Restaurant](images/average-sales-by-restaurant.png)
+- [Change in Units and Sales](images/change-in-units-and-sales.png)
+- [Restaurants by Cuisine Type](images/restaurants-by-cuisine-type.png)
+- [Breakdown of Companies by Units](images/breakdown-of-companies-by-units.png)
 
 ## Interactive Dashboard
 [View the interactive visualization on Tableau Public](https://public.tableau.com/views/FastFoodIndustryAnalysis/Teams?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
