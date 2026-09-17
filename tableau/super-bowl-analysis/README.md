@@ -59,6 +59,19 @@ Games were classified according to the difference between the winning and losing
 
 The analysis can then be used to compare average U.S. viewership across these different types of games, providing insight into whether more competitive games tend to attract larger audiences.
 
+## Visualizations
+[Average Household Rating By Year](images/average-household-rating-by-year.png)
+
+[Score Difference](images/score-difference.png)
+
+[Ad Cost By Year](images/ad-cost-by-year.png)
+
+[Rating Vs Ad Cost](images/rating-vs-ad-cost.png)
+
+[Average US Viewers by Headliner](images/average-us-viewers-by-headliner.png)
+
+[Average US Viewers by Game's Result Type](images/average-us-viewers-by-game-result.png)
+
 ## Interactive Dashboard
 [View the interactive visualization on Tableau Public](https://public.tableau.com/views/Milestone-SuperBowlAnalysis--AnanyaGarg/WriteAnswersHere?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
