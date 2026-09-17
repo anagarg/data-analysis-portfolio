@@ -61,6 +61,19 @@ Reported sightings vary throughout the day. Analyzing sightings by hour provides
 ### Encounter Duration
 Encounter duration varies substantially between reports. Converting the original duration measurements from seconds to minutes made it easier to compare the length of reported encounters across months.
 
+## Visualizations
+[UFO Sightings By State](images/ufo-sightings-by-state.png)
+
+[Number of Sightings Per Country](images/number-of-sightings-per-country.png)
+
+[UFO Sightings Length By Month](images/ufo-sightings-length-by-month.png)
+
+[UFO Sightings By Shape](images/ufo-sightings-by-shape.png)
+
+[UFO Sightings By Hour](images/ufo-sightings-by-hour.png)
+
+[UFO Sightings By Color](images/ufo-sightings-by-color.png)
+
 ## Interactive Dashboard
 [View the interactive visualization on Tableau Public](https://public.tableau.com/views/Milestone-InvestigatingUFOSightings--AnanyaGarg/WriteAnswersHere?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
