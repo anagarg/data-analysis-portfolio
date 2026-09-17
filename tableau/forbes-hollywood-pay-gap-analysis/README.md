@@ -45,15 +45,11 @@ The highest-paid-actor visualization highlights the individuals with the largest
 These findings describe reported Forbes earnings within this particular dataset. They should not be interpreted as representing the earnings of all actors or the entire Hollywood industry, since the dataset focuses on celebrities included in the Forbes rankings.
 
 ## Visualizations
-[Yearly Actor Earnings By Sex](images/yearly-actor-earnings-by-sex.png)
-
-[Actor Earnings by Sex](images/actor-earnings-by-sex.png)
-
-[Highest Paid Actors](images/highest-paid-actors.png)
-
-[Actor Earnings Over Time](images/actor-earnings-over-time.png)
-
-[Total Pay by Category](images/total-pay-by-category.png)
+- [Yearly Actor Earnings By Sex](images/yearly-actor-earnings-by-sex.png)
+- [Actor Earnings by Sex](images/actor-earnings-by-sex.png)
+- [Highest Paid Actors](images/highest-paid-actors.png)
+- [Actor Earnings Over Time](images/actor-earnings-over-time.png)
+- [Total Pay by Category](images/total-pay-by-category.png)
 
 ## Interactive Dashboard
 [View the interactive visualization on Tableau Public](https://public.tableau.com/views/Milestone-ForbesandthePayGapinHollywood--AnanyaGarg_17892773882820/WriteAnswersHere?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
