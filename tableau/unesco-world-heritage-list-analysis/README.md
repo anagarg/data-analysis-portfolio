@@ -44,6 +44,15 @@ The World Heritage List contains multiple categories of sites. Comparing the num
 ### Endangered Sites
 The analysis compares endangered and non-endangered sites across World Heritage categories. This provides insight into how endangered-status classifications are distributed among the different categories of sites.
 
+## Visualizations
+[Breakdown of Sites by Category](images/breakdown-of-sites-by-category.png)
+
+[Number Of Heritage Sites Per Country](images/number-of-heritage-sites-per-country.png)
+
+[Heritage Area Per Country](images/heritage-area-per-country.png)
+
+[Heritage Sites in France](images/heritage-sites-in-france.png)
+
 ## Interactive Dashboard
 [View the interactive visualization on Tableau Public](https://public.tableau.com/views/Milestone-ExploringtheUNESCOWHCHeritageList--AnanyaGarg/WriteAnswersHere?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
