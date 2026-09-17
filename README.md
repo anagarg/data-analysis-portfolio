@@ -11,21 +11,21 @@ Welcome to my data analysis portfolio! This repository showcases projects that d
 ## Tableau Projects:
 - [An Intel Data Center](tableau/intel-data-center-analysis)
 
-[Billboard Hits & Spotify Analysis](tableau/billboard-hits-and-spotify-analysis)
+- [Billboard Hits & Spotify Analysis](tableau/billboard-hits-and-spotify-analysis)
 
-[Super Bowl Analysis](tableau/super-bowl-analysis)
+- [Super Bowl Analysis](tableau/super-bowl-analysis)
 
-[NYC Green Taxi Fares Analysis](tableau/nyc-green-taxi-analysis)
+- [NYC Green Taxi Fares Analysis](tableau/nyc-green-taxi-analysis)
 
-[Investigating UFO Sightings](tableau/ufo-sightings-analysis)
+- [Investigating UFO Sightings](tableau/ufo-sightings-analysis)
 
-[Forbes and the Pay Gap in Hollywood](tableau/forbes-hollywood-pay-gap-analysis)
+- [Forbes and the Pay Gap in Hollywood](tableau/forbes-hollywood-pay-gap-analysis)
 
-[Exploring the UNESCO WHC Heritage List](tableau/unesco-world-heritage-list-analysis)
+- [Exploring the UNESCO WHC Heritage List](tableau/unesco-world-heritage-list-analysis)
 
-[Data Visualization as Storytelling](tableau/data-visualization-storytelling)
+- [Data Visualization as Storytelling](tableau/data-visualization-storytelling)
 
-[Fast Food Industry Analysis](tableau/fast-food-industry-analysis)
+- [Fast Food Industry Analysis](tableau/fast-food-industry-analysis)
 
 ## Connect With Me:
 - **LinkedIn:** [Ananya Garg](www.linkedin.com/in/anagarg)
