@@ -74,6 +74,9 @@ Music sales changed substantially over time as different formats gained and lost
 ### Video Game Sales
 Video game sales vary considerably across platforms and genres. The analysis highlights differences in market performance and makes it possible to identify the platforms and genres associated with higher total sales.
 
+## Visualizations
+![Adult Male Height](images/Adult Male Height.png)
+
 ## Interactive Dashboard
 [View the interactive visualizations on Tableau Public](https://public.tableau.com/views/LevelUpMilestone-DataVisualizationasStorytelling--AnanyaGarg/WriteAnswersHere?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
