@@ -9,7 +9,7 @@ Welcome to my data analysis portfolio! This repository showcases projects that d
 
 
 ## Tableau Projects:
-[An Intel Data Center](tableau/intel-data-center-analysis)
+- [An Intel Data Center](tableau/intel-data-center-analysis)
 
 [Billboard Hits & Spotify Analysis](tableau/billboard-hits-and-spotify-analysis)
 
