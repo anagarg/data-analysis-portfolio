@@ -56,6 +56,17 @@ Trip distance varies across rate types. Comparing distance distributions provide
 ### Tipping Behavior
 The analysis uses tip per distance to compare tipping behavior while accounting for differences in trip length. This provides a more meaningful comparison than looking only at total tip amounts.
 
+## Visualizations
+[Fare Histogram](images/fare-histogram.png)
+
+[Trip Count By Rate Type](images/trip-count-by-rate-type.png)
+
+[Trip Distance By Rate Type](images/trip-distance-by-rate-type.png)
+
+[Tip By Rate Type](images/tip-by-rate-type.png)
+
+[Tip-Subtotal Ratio Histogram](images/tip-subtotal-ratio-histogram.png)
+
 ## Interactive Dashboard
 [View the interactive visualization on Tableau Public](https://public.tableau.com/views/Milestone-NYCGreenTaxiFaresAnalysis--AnanyaGarg/WriteAnswersHere?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
