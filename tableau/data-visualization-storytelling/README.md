@@ -75,17 +75,17 @@ Music sales changed substantially over time as different formats gained and lost
 Video game sales vary considerably across platforms and genres. The analysis highlights differences in market performance and makes it possible to identify the platforms and genres associated with higher total sales.
 
 ## Visualizations
-[Adult Male Height](images/adult-male-height.png)
+- [Adult Male Height](images/adult-male-height.png)
 
-[Adult Female Height](images/adult-female-height.png)
+- [Adult Female Height](images/adult-female-height.png)
 
-[Average Female Adult Height Choropleth](images/average-female-adult-height-choropleth.png)
+- [Average Female Adult Height Choropleth](images/average-female-adult-height-choropleth.png)
 
-[Overall Music Sales](images/overall-music-sales.png)
+- [Overall Music Sales](images/overall-music-sales.png)
 
-[Music Sales by Format](images/music-sales-by-format.png)
+- [Music Sales by Format](images/music-sales-by-format.png)
 
-[Video Game Sales](images/video-game-sales.png)
+- [Video Game Sales](images/video-game-sales.png)
 
 ## Interactive Dashboard
 [View the interactive visualizations on Tableau Public](https://public.tableau.com/views/LevelUpMilestone-DataVisualizationasStorytelling--AnanyaGarg/WriteAnswersHere?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
