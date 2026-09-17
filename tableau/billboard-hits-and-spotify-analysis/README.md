@@ -49,11 +49,11 @@ Rap experienced the largest increase among these genres, more than doubling its 
 The interactive audio-feature visualization showed a moderate positive relationship between Valence and Danceability. Songs with higher valence generally tended to have higher danceability, although the distribution of songs was sufficiently spread out that the relationship was not particularly strong.
 
 ## Visualizations
-[Rock and Pop Popularity](images/rock-and-pop-popularity.png)
+- [Rock and Pop Popularity](images/rock-and-pop-popularity.png)
 
-[Proportion of Billboard 100 Songs with Alternative (1999-2019)](images/proportion-of-billboard-100-songs-with-alternative.png)
+- [Proportion of Billboard 100 Songs with Alternative (1999-2019)](images/proportion-of-billboard-100-songs-with-alternative.png)
 
-[Audio Features - Valence vs Danceability](images/audio-features-valence-vs-danceability.png)
+- [Audio Features - Valence vs Danceability](images/audio-features-valence-vs-danceability.png)
 
 ## Interactive Dashboard
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/BillboardHitsSpotifyAnalysis_17890936457910/WriteAnswersHere?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
