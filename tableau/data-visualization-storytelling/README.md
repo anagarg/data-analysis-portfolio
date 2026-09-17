@@ -76,15 +76,10 @@ Video game sales vary considerably across platforms and genres. The analysis hig
 
 ## Visualizations
 - [Adult Male Height](images/adult-male-height.png)
-
 - [Adult Female Height](images/adult-female-height.png)
-
 - [Average Female Adult Height Choropleth](images/average-female-adult-height-choropleth.png)
-
 - [Overall Music Sales](images/overall-music-sales.png)
-
 - [Music Sales by Format](images/music-sales-by-format.png)
-
 - [Video Game Sales](images/video-game-sales.png)
 
 ## Interactive Dashboard
