@@ -50,9 +50,7 @@ The interactive audio-feature visualization showed a moderate positive relations
 
 ## Visualizations
 - [Rock and Pop Popularity](images/rock-and-pop-popularity.png)
-
 - [Proportion of Billboard 100 Songs with Alternative (1999-2019)](images/proportion-of-billboard-100-songs-with-alternative.png)
-
 - [Audio Features - Valence vs Danceability](images/audio-features-valence-vs-danceability.png)
 
 ## Interactive Dashboard
