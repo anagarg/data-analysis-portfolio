@@ -150,7 +150,7 @@ However, these engagement metrics do not measure broader business outcomes such 
 - Business recommendations
 
 ## Excel Workbook
-[Analyzing Website Performance for The Grammys](Analyzing Website Performance for The Grammys.xlsx)
+[Analyzing Website Performance for The Grammys](grammys-website-performance-analysis.xlsx)
 
 ## Project Context
 This project was completed as part of the Global Career Accelerator Data Analytics program.
