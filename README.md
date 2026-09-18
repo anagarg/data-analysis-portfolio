@@ -28,6 +28,6 @@ Welcome to my data analysis portfolio! This repository showcases projects that d
 - [Fast Food Industry Analysis](tableau/fast-food-industry-analysis)
 
 ## Connect With Me:
-- **LinkedIn:** [Ananya Garg](https://www.linkedin.com/in/anagarg/)
+- **LinkedIn:** www.linkedin.com/in/anagarg/
 - **Email:** anagarg30@gmail.com
 - **Tableau Public:** [View my Tableau Public profile](https://public.tableau.com/app/profile/ananya.garg2599/vizzes)
