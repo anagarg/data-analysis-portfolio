@@ -6,7 +6,8 @@ Welcome to my data analysis portfolio! This repository showcases projects that d
 * __Tableau__: Interactive dashboards, calculated fields, parameters, data visualization, data analysis
 
 ## Excel Projects:
-
+- [Grammys Website Performance Analysis](excel/grammys-website-performance)
+- [H&M Email A/B Testing Analysis](excel/hm-email-ab-testing)
 
 ## Tableau Projects:
 - [An Intel Data Center](tableau/intel-data-center-analysis)
