@@ -143,6 +143,9 @@ Future A/B tests should therefore evaluate both email engagement and downstream 
 - Experimental design
 - Confounding-factor analysis
 
+## Excel Workbook
+[H&M A/B Testing Email Marketing Campaign Analysis](hm-ab-testing-analysis.xlsx)
+
 ## Project Context
 This project was completed as part of the Global Career Accelerator Data Analytics program.
 
