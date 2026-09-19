@@ -8,6 +8,13 @@ Welcome to my data analysis portfolio! This repository showcases projects that d
 ## Excel Projects:
 - [Grammys Website Performance Analysis](excel/grammys-website-performance)
 - [H&M Email A/B Testing Analysis](excel/hm-email-ab-testing)
+- [YouTube Trending Video Analysis](excel/youtube-trending-videos-analysis)
+- [DoorDash Delivery & Customer Analysis](excel/doordash-delivery-analysis)
+- [Bart Ridership Analysis](excel/bart-ridership-analysis)
+- [Winter Sports Interest Analysis](excel/winter-sports-interest-analysis)
+- [Terracotta Customer Survey Analysis](excel/terracotta-survey-analysis)
+- [Warby Parker's Landing Page A/B Testing Analysis](excel/warby-parker-ab-testing)
+- [National Park Service Analysis](excel/national-park-service-analysis)
 
 ## Tableau Projects:
 - [An Intel Data Center](tableau/intel-data-center-analysis)
