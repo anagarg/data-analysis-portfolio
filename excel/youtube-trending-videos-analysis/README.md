@@ -137,6 +137,9 @@ Title length, keywords, and thumbnail characteristics could be analyzed to ident
 - Exploratory data analysis
 - Business-focused recommendations
 
+## Excel Workbook
+[YouTube Trending Video Analysis](youtube-trending-analysis.xlsx)
+
 ## Project Context
 This project was completed as part of the Global Career Accelerator Data Analytics program.
 
