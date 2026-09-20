@@ -1,4 +1,4 @@
-# YouTube Trending Analysis
+# YouTube Trending Videos Analysis
 
 ## Overview
 This project analyzes a dataset of YouTube videos that appeared on the daily trending list to identify patterns associated with video views and trending performance.
