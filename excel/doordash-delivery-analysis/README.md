@@ -188,6 +188,9 @@ The analysis identifies patterns in the data, but the available dataset does not
 - Category analysis
 - Data-driven recommendations
 
+## Excel Workbook
+[DoorDash Delivery & Customer Analysis](doordash-delivery-analysis.xlsx)
+
 ## Project Context
 This project was completed as part of the Global Career Accelerator Data Analytics program.
 
