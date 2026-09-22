@@ -1,4 +1,4 @@
-<img width="382" height="67" alt="image" src="https://github.com/user-attachments/assets/adc4ff26-c56b-4ec2-9a27-8173fadfa456" /># Winter Sports Interest Analysis
+# Winter Sports Interest Analysis
 
 ## Overview
 
