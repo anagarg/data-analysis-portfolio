@@ -220,7 +220,7 @@ A **Type II error** would occur if the new landing page actually improved satisf
 - Business recommendations
 
 ## Excel Workbook
-[]()
+[Warby Parker's Landing Page A/B Testing Analysis](ab-testing-for-warby-parker.xlsx)
 
 ## Project Context
 This project was completed as part of the Global Career Accelerator Data Analytics program.
