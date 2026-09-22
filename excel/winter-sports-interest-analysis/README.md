@@ -1,4 +1,4 @@
-# Winter Sports Interest Analysis
+<img width="382" height="67" alt="image" src="https://github.com/user-attachments/assets/adc4ff26-c56b-4ec2-9a27-8173fadfa456" /># Winter Sports Interest Analysis
 
 ## Overview
 
@@ -177,6 +177,13 @@ This suggests that promotional strategies could be tailored to the specific sear
 - Formula-based analysis
 - Hypothesis development
 - AI-assisted research and hypothesis refinement
+
+## Visualizations
+[Interest Levels in Curling](curling-search-interest.png)
+[Interest Levels in Luge](luge-search-interest.png)
+[Interest Levels in Hockey and Snowboarding](hockey-snowboarding-interest.png)
+[Average Interest Level](average-winter-sports-interest.png)
+[Interest Levels for Different Sports During February of the Olympic Years](olympic-year-interest.png)
 
 ## Excel Workbook
 [Winter Sports Interest Analysis](winter-sports-interest-analysis.xlsx)
