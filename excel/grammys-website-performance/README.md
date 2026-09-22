@@ -149,6 +149,9 @@ However, these engagement metrics do not measure broader business outcomes such 
 - Data interpretation
 - Business recommendations
 
+## Visualizations
+[Number of daily visitors to the website on a given day](images/number_of_daily_visitors.png)
+
 ## Excel Workbook
 [Analyzing Website Performance for The Grammys](grammys-website-performance-analysis.xlsx)
 
