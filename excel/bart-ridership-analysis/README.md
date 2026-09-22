@@ -195,6 +195,9 @@ BART could use station-level ridership and crowding data to identify where addit
 - Descriptive analysis
 - Data-driven recommendations
 
+# Excel Workbook
+[Bart Ridership Analysis](bart-ridership-analysis.xlsx)
+
 ## Project Context
 This project was completed as part of the Global Career Accelerator Data Analytics program.
 
