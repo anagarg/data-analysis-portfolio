@@ -43,11 +43,14 @@ The test measured engagement with a homepage call-to-action (CTA) encouraging vi
 ## Analysis
 
 ### 1. Website Traffic Analysis
-I created a line chart to examine daily visitors to GRAMMY.com and identify periods of increased website traffic.
+I created a [line chart](images/number_of_daily_visitors.png) to examine daily visitors to GRAMMY.com and identify periods of increased website traffic.
 
 The analysis showed that the largest traffic spikes occurred around GRAMMY Awards ceremonies. Smaller recurring spikes appeared around the announcement of GRAMMY nominations, while additional increases occurred during the months following the awards.
 
-I also created a PivotTable comparing average daily visitors on GRAMMY Awards days with regular days.
+I also created a PivotTable comparing average daily visitors on GRAMMY Awards days with regular days:
+| Grammy Awards Days | Regular Days | Total |
+| -------- | -------- | -------- |
+| 1389590 | 32388 | 39922 |
 
 ### 2. Website Engagement Metrics
 I calculated three key engagement metrics to compare website performance before and after the split:
