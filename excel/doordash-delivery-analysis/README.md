@@ -101,7 +101,7 @@ For example:
 These differences demonstrate that customer ordering patterns vary across markets and can be used to inform localized strategies.
 
 ### 5. Delivery Time by Cuisine
-As an optional LevelUp analysis, I created a PivotTable comparing [average delivery time across cuisine categories]((images/avg_delivery_time.png)) and sorted the results from longest to shortest delivery time.
+As an optional LevelUp analysis, I created a PivotTable comparing [average delivery time across cuisine categories](images/avg_delivery_time.png) and sorted the results from longest to shortest delivery time.
 
 The cuisine with the highest average delivery time was **Spanish**, at approximately **66.3 minutes**.
 
