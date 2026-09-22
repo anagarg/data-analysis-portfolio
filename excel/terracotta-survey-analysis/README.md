@@ -206,6 +206,9 @@ These findings are based on survey responses and describe the preferences repres
 - Data enrichment
 - Data-driven recommendations
 
+## Excel Workbook
+[Terracotta Survey Analysis](terracotta-survey-analysis.xlsx)
+
 ## Project Context
 This project was completed as part of the Global Career Accelerator Data Analytics program.
 
