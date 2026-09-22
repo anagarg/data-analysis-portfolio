@@ -45,7 +45,7 @@ Because these are relative search-interest values, they should not be interprete
 ## Analysis
 
 ### 1. Curling Search Interest Over Time
-I created a line chart to examine the trend in search interest for curling from 2004 through 2022.
+I created a [line chart](images/curling-search-interest.png) to examine the trend in search interest for curling from 2004 through 2022.
 
 The analysis identified a strong cyclical pattern:
 - Smaller increases in interest occur during the winter season.
@@ -80,7 +80,7 @@ Potential limitations include:
 These limitations were considered when interpreting the results.
 
 ### 4. Luge Search Interest
-I created a second line chart to compare luge with curling.
+I created a second [line chart](images/luge-search-interest.png) to compare luge with curling.
 
 Luge showed a similar four-year Olympic cycle, but its Olympic-year peaks were generally much smaller than curling's.
 
@@ -91,7 +91,7 @@ The workbook's analysis connects this unusually large spike with a fatal trainin
 This demonstrates that search interest can be affected by major events beyond normal seasonal and Olympic patterns.
 
 ### 5. Hockey and Snowboarding
-I created a combined line chart comparing hockey and snowboarding.
+I created a combined [line chart]((images/hockey-snowboarding-interest.png)) comparing hockey and snowboarding.
 
 Both sports showed recurring seasonal patterns, with search interest generally increasing during winter months and decreasing during warmer months.
 
@@ -109,7 +109,7 @@ I calculated the average search interest for five sports that had not yet been c
 - Alpine Skiing
 - Bobsleigh
 
-I then created a bar chart comparing their average interest levels.
+I then created a [bar chart](images/average-winter-sports-interest.png) comparing their average interest levels.
 
 Among these five sports, **Bobsleigh had the highest average search interest**.
 
@@ -133,7 +133,7 @@ The Olympic years included:
 - 2018
 - 2022
 
-A horizontal stacked bar chart was created to compare search-interest levels across the Olympic years.
+A [horizontal stacked bar chart](images/olympic-year-interest.png) was created to compare search-interest levels across the Olympic years.
 
 This comparison provides a more focused view of how interest in these sports changes during the month when the Winter Olympics are taking place.
 
