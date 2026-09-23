@@ -7,40 +7,24 @@ Welcome to my data analysis portfolio! This repository showcases projects that d
 
 ## Excel Projects:
 - [Grammys Website Performance Analysis](excel/grammys-website-performance)
-
 - [H&M Email A/B Testing Analysis](excel/hm-email-ab-testing)
-
 - [YouTube Trending Video Analysis](excel/youtube-trending-videos-analysis)
-
 - [DoorDash Delivery & Customer Analysis](excel/doordash-delivery-analysis)
-
 - [Terracotta Customer Survey Analysis](excel/terracotta-survey-analysis)
-
 - [Bart Ridership Analysis](excel/bart-ridership-analysis)
-
 - [National Park Service Analysis](excel/national-park-service-analysis)
-
 - [Winter Sports Interest Analysis](excel/winter-sports-interest-analysis)
-
 - [Warby Parker's Landing Page A/B Testing Analysis](excel/warby-parker-ab-testing)
 
 ## Tableau Projects:
 - [An Intel Data Center](tableau/intel-data-center-analysis)
-
 - [Billboard Hits & Spotify Analysis](tableau/billboard-hits-and-spotify-analysis)
-
 - [Super Bowl Analysis](tableau/super-bowl-analysis)
-
 - [NYC Green Taxi Fares Analysis](tableau/nyc-green-taxi-analysis)
-
 - [Investigating UFO Sightings](tableau/ufo-sightings-analysis)
-
 - [Forbes and the Pay Gap in Hollywood](tableau/forbes-hollywood-pay-gap-analysis)
-
 - [Exploring the UNESCO WHC Heritage List](tableau/unesco-world-heritage-list-analysis)
-
 - [Data Visualization as Storytelling](tableau/data-visualization-storytelling)
-
 - [Fast Food Industry Analysis](tableau/fast-food-industry-analysis)
 
 ## Connect With Me:
